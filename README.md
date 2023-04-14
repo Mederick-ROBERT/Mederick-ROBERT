@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/Mederick-ROBERT/Mederick-ROBERT/blob/main/dog.png" alt="codding dog" height="200"/>
+ <img src="https://github.com/Mederick-ROBERT/Mederick-ROBERT/blob/main/dog-modified.png" alt="codding dog" height="200"/>
  <img src="https://github-readme-stats.vercel.app/api?username=Mederick-ROBERT&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 
