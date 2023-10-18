@@ -12,19 +12,19 @@ Let's code the future together! 🚀💻 #DéveloppeurWeb #OclockAlumni
 
 <p>
 <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img alt="laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img alt="symphony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
-<img alt="mysql" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=symfony&logoColor=white" />
+<img alt="mysql" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="vuedotjs" src="https://img.shields.io/badge/-VueJs-4FC08D?style=flat-square&logo=symfony&logoColor=white" />
-<img alt="nuxtdotjs" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=symfony&logoColor=white" />
+<img alt="vuedotjs" src="https://img.shields.io/badge/-VueJs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img alt="nuxtdotjs" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=black" />
 </p>
 
 <h4>📚 And what I learn </h4>
 
 <p>
 <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-<img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=react&logoColor=white" />
+<img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ Let's code the future together! 🚀💻 #DéveloppeurWeb #OclockAlumni
 <h4>⭐ My Top Project </h4>
 
 <p>
-<a href="https://devweaversync.fr/home" style="font-size: 20px;">DevWeaverSync</a> - a social network for developer
+<a href="https://devweaversync.fr/home" style="font-size: 30px;">DevWeaverSync</a> - a social network for developer
 <br>
 <img href="https://img.shields.io/badge/Laravel-v10.0.0-red?logo=laravel">
 <img href="https://img.shields.io/badge/React-v18.2.0-cyan?logo=react">
@@ -42,7 +42,7 @@ Let's code the future together! 🚀💻 #DéveloppeurWeb #OclockAlumni
 </p>
 
 <p>
-<a href="https://github.com/Mederick-ROBERT/Recip-App-V4" style="font-size: 20px;">Food'X</a> - a recip app (in progress)
+<a href="https://github.com/Mederick-ROBERT/Recip-App-V4" style="font-size: 30px;">Food'X</a> - a recip app (in progress)
 <br>
 <img href="https://img.shields.io/badge/Laravel-v10.0.0-red?logo=laravel">
 <img href="https://img.shields.io/badge/Nuxt-v3.7.0-blackgreen?logo=nuxtdotjs">
