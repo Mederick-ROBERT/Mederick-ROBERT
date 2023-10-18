@@ -36,17 +36,17 @@ Let's code the future together! 🚀💻 #DéveloppeurWeb #OclockAlumni
 <p>
 <a href="https://devweaversync.fr/home" style="font-size: 30px;">DevWeaverSync</a> - a social network for developer
 <br>
-<img href="https://img.shields.io/badge/Laravel-v10.0.0-red?logo=laravel">
-<img href="https://img.shields.io/badge/React-v18.2.0-cyan?logo=react">
-<img href="https://img.shields.io/badge/Sass-v1.69.4-pink?logo=sass">
+<img src="https://img.shields.io/badge/Laravel-v10.0.0-red?logo=laravel">
+<img src="https://img.shields.io/badge/React-v18.2.0-cyan?logo=react">
+<img src="https://img.shields.io/badge/Sass-v1.69.4-pink?logo=sass">
 </p>
 
 <p>
 <a href="https://github.com/Mederick-ROBERT/Recip-App-V4" style="font-size: 30px;">Food'X</a> - a recip app (in progress)
 <br>
-<img href="https://img.shields.io/badge/Laravel-v10.0.0-red?logo=laravel">
-<img href="https://img.shields.io/badge/Nuxt-v3.7.0-blackgreen?logo=nuxtdotjs">
-<img href="https://img.shields.io/badge/Sass-v1.69.4-pink?logo=sass">
+<img src="https://img.shields.io/badge/Laravel-v10.0.0-red?logo=laravel">
+<img src="https://img.shields.io/badge/Nuxt-v3.7.0-blackgreen?logo=nuxtdotjs">
+<img src="https://img.shields.io/badge/Sass-v1.69.4-pink?logo=sass">
 </p>
 
 <h4>🌐 Where I am : </h4>
